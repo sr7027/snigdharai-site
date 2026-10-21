@@ -1,0 +1,8 @@
+Drop your photos in this folder with these names (jpg, ideally under 500 KB each).
+
+Camera on the About page:  camera-1.jpg ... camera-6.jpg
+Homes:  india-1/2/3.jpg  kl-1/2/3.jpg  sg1-1/2/3.jpg  seoul-1/2/3.jpg  sg2-1/2/3.jpg  nyc-1/2/3.jpg
+Travel shelf:  trip-<city>-1/2/3.jpg   e.g. trip-tokyo-1.jpg
+
+All the text (stories, captions, trips, jobs) is near the top of the <script> in index.html.
+Put your résumé next to index.html, named resume.pdf
